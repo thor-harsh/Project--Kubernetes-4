@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The frontend part of this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bakend part is similar to earlier project I made but it is updated to reduce the dependencies as little as possible.
 
 ## Available Scripts
 
